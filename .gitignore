@@ -1,0 +1,8 @@
+.mcuxpressoide_packages_support
+.metadata
+ZephyrRTOS_TAD_logs
+AzureRTOS_TAD_logs
+FreeRTOS_TAD_logs
+*.cproject
+*.launch
+.settings/
